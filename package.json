@@ -1,0 +1,31 @@
+{
+  "name": "ng-scratch-off",
+  "version": "0.1.0",
+  "description": "An AngularJS module that provides a scratch off element.\nThis is an adaptation of code by Wes Picket. Original found here: http://wespickett.com/blog#feb0212",
+  "homepage": "http://shoppinpal.github.io/ng-scratch-off",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoppinpal/ng-scratch-off.git"
+  },
+  "author": {
+    "name": "Jeff French"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/shoppinpal/ng-scratch-off/blog/master/LICENSE"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-less": "~0.6.1",
+    "matchdep": "~0.1.2",
+    "grunt-regarde": "~0.1.1",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-open": "~0.2.1",
+    "grunt-contrib-compress": "~0.5.2"
+  }
+}
